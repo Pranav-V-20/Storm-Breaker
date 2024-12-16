@@ -3,8 +3,11 @@
 Features:
 ---
 Obtain Device Information Without Any Permission !
+
 Access Location [SMARTPHONES]
+
 Access Webcam
+
 Access Microphone
 
 Installation:
@@ -38,10 +41,13 @@ Access the tool by this command:
 Setup:
 ---
 Signup & login into ngrok
+
 And follow the instruction correctly
 
 Then copy the Target link and paste in new terminal 
+
 Then copy the forwarding link from that And paste it in firefox
+
 And enter a username and password then copy the phishing link and use it.
 
 Discribition:
